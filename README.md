@@ -22,11 +22,13 @@ var207 - variável aod do arquivo *.nc
 var167 - variável t2m do arquivo *.nc
 
 
-
+===================================================================
 Informações sobre os dados:
+===================================================================
 
-NASA/GEOS
-
+**************
+  NASA/GEOS
+**************
 GEOS5 output for WGNE-S2S-GAW aerosol project is at gmaoftp site:
 https://gmao.gsfc.nasa.gov/gmaoftp/zli/AERO_WGNE/
 There are 9 ensemble members for each experiment for both May and Sep:
