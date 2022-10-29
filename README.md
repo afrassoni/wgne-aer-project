@@ -22,9 +22,10 @@ var207 - variável aod do arquivo *.nc
 var167 - variável t2m do arquivo *.nc
 
 
-==============================
-Informações sobre os dados:
-==============================
+=================================
+=================================
+   Informações sobre os dados:
+=================================
 
 **************
   NASA/GEOS
